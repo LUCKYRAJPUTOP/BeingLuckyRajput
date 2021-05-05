@@ -28,18 +28,18 @@ uptime = tim
 #time = date + time okay
 TIME = time.asctime(time.localtime())
 #my name 👇
-ULTRAX = "[υℓтяα χ](https://t.me/ULTRAXOT)"
+ULTRAX = "[αɳรɦµℓ ɾαʝρµƭ](https://t.me/LuckyRajputWritings)"
 #my bots repo 👇
-REPO = "[υℓтяα χ вσт](https://github.com/ULTRA-OP/ULTRA-X)"
+REPO = "[αɳรɦµℓ ɾαʝρµƭ вσт](https://github.com/ULTRA-OP/ULTRA-X)"
 #grpup👇NAME = "[{MAATER}](tg://user?id={X})"
 #yrr isko apne bot me aply krne se pehle mere se pooch lena ok
 #aur aage add kruga abhi busy okay 🤔
 global ghanti
 X = bot.uid
 MASTER = f"[{NAME}](tg://user?id={X})"
-GROUP = "[SUPPORT GROUP](https://t.me/ULTRAXCHAT)"
+GROUP = "[SUPPORT GROUP](https://t.me/LuckyRajputWritings)"
 #itna test h aur aage krte h
 #test successful raha ab aage 
-ALIVE = "υℓтяα χ вσт ιѕ ση 🔥 ƒιяє 🔥" 
-OP = " нєℓℓσ мαѕтєя му ηαмє ιѕ υℓтяα χ вσт ι αм тнє вєѕт υѕєявσт 💝"
+ALIVE = "αɳรɦµσ ɾαʝρµƭ вσт ιѕ ση 🔥 ƒιяє 🔥" 
+OP = " нєℓℓσ мαѕтєя му ηαмє αɳรɦµℓ ɾαʝρµƭ вσт ι αм тнє вєѕт υѕєявσт 💝"
 EMOJI = "🔥"
